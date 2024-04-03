@@ -8,31 +8,31 @@ I'm Iñigo Zuriaga, a junior web developer passionate about learning and taking 
 
 | Frontend         | Backend         | Others         |
 |------------------|-----------------|----------------|
-| JavaScript  💻   | Node.js  🚀      | Figma  🎨      |
-| ReactJS  ⚛️      | Nest.js  🐤      | Unity  🎮      |
-| NextJS  🚀       | PHP  🐘          | WordPress  📝 |
-| TypeScript  📝   | Laravel  🌟      | GitHub  🐱    |
-| HTML  🌐         | Express  🚀      | Android Studio 📱|
-| CSS  🎨          | Apollo Client  🚀| After Effects  🎬|
-| Tailwind CSS  🎨 | Axios  🚀       |                |
-| Bootstrap  🅱️    | SQL  🗃️         |                |
-|                 | Prisma  🚀       |                |
-|                 | MongoDB  🍃      |                |
+| 💻 JavaScript    | 🚀 Node.js      | 🎨 Figma       |
+| ⚛️ ReactJS       | 🐤 Nest.js      | 🎮 Unity       |
+| 🚀 NextJS        | 🐘 PHP          | 📝 WordPress   |
+| 📝 TypeScript    | 🌟 Laravel      |                |
+| 🌐 HTML          | 🚀 Express      |                |
+| 🎨 CSS           | 🚀 Apollo Client|                |
+| 🎨 Tailwind CSS  | 🚀 Axios        |                |
+| 🅱️ Bootstrap     | 🗃️ SQL          |                |
+|                  | 🚀 Prisma       |                |
+|                  | 🍃 MongoDB      |                |
 
 ## Portfolio
 
 Here are some interesting websites I've worked on:
 
 1. [Evido Website](https://website-evido-inigo.vercel.app/) 🌐
-2. [Kvalifik Frontend](https://kvalifik-frontend111.vercel.app/) 📊
-3. [Rick and Morty API](https://rick-and-morty-api-seven-mauve.vercel.app/) 🛸
+2. [Pizza House](https://pizza-house-nu.vercel.app/) 🍕
+3. [Kvalifik Frontend](https://kvalifik-frontend111.vercel.app/) 📊
+4. [Rick and Morty API](https://rick-and-morty-api-seven-mauve.vercel.app/) 🛸
 
 Feel free to explore them!
 
 ## Get in Touch
 
-- LinkedIn: [Iñigo Zuriaga](https://www.linkedin.com/in/iñigo-zuriaga/) 💼
-- GitHub: [@your-github-username](https://github.com/your-github-username) 🐱
-- Email: your-email@example.com 📧
+- LinkedIn: [Iñigo Zuriaga](https://www.linkedin.com/in/inigo-zuriaga/) 💼
+- Email: zuriaga99@gmail.com 📧
 
 Let's connect and collaborate! 🤝
