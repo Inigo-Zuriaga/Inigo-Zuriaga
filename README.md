@@ -1,16 +1,55 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**Inigo-Zuriaga/Inigo-Zuriaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm Iñigo Zuriaga, a junior web developer passionate about learning and taking on new challenges. I bring a strong sense of responsibility and commitment to my work, and I thrive both in collaborative environments and working individually.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Digital Skills
+
+### Frontend
+- JavaScript
+- ReactJS
+- NextJS
+- TypeScript
+- HTML
+- CSS
+- Tailwind CSS
+- Bootstrap
+
+### Backend
+- Node.js
+- Nest.js
+- PHP
+- Laravel
+- Express
+- Apollo Client
+- Axios
+- SQL
+- Prisma
+- MongoDB
+
+### Others
+- Figma
+- Unity
+- WordPress
+- GitHub
+- Android Studio
+- Adobe After Effects
+
+## Portfolio
+
+Here are some interesting websites I've worked on:
+
+1. [Evido Website](https://website-evido-inigo.vercel.app/)
+2. [Pizza House](https://pizza-house-nu.vercel.app/)/)
+3. [Kvalifik](https://kvalifik-frontend111.vercel.app/)
+4. [Rick and Morty API](https://rick-and-morty-api-seven-mauve.vercel.app/)
+
+Feel free to explore them!
+
+## Get in Touch
+
+- LinkedIn: [Iñigo Zuriaga](https://www.linkedin.com/in/iñigo-zuriaga/)
+- Email: zuriaga99@gmail.com
+
+Let's connect and collaborate!
