@@ -15,7 +15,7 @@ I'm Iñigo Zuriaga, a junior web developer passionate about learning and taking 
 | 🌐 HTML          | 🚀 Express      |                |
 | 🎨 CSS           | 🚀 Apollo Client|                |
 | 🎨 Tailwind CSS  | 🚀 Axios        |                |
-| 🅱️ Bootstrap     | 🗃️ SQL          |                |
+| 🅱️ Bootstrap     | 🗃️ SQL / PostgreSQL|             | 
 |                  | 🚀 Prisma       |                |
 |                  | 🍃 MongoDB      |                |
 
