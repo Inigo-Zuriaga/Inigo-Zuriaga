@@ -6,36 +6,17 @@ I'm Iñigo Zuriaga, a junior web developer passionate about learning and taking 
 
 ## Digital Skills
 
-### Frontend
-- JavaScript
-- ReactJS
-- NextJS
-- TypeScript
-- HTML
-- CSS
-- Tailwind CSS
-- Bootstrap
-
-### Backend
-- Node.js
-- Nest.js
-- PHP
-- Laravel
-- Express
-- Apollo Client
-- Axios
-- SQL
-- Prisma
-- MongoDB
-
-### Others
-- Figma
-- Unity
-- WordPress
-- GitHub
-- Android Studio
-- Adobe After Effects
-
+### Frontend | Backend | Others
+- JavaScript       | Node.js       | Figma
+- ReactJS          | Nest.js       | Unity
+- NextJS           | PHP           | WordPress
+- TypeScript       | Laravel       | GitHub
+- HTML             | Express       | Android Studio
+- CSS              | Apollo Client | Adobe After Effects
+- Tailwind CSS     | Axios
+- Bootstrap        | SQL
+-                  | Prisma
+-                  | MongoDB
 ## Portfolio
 
 Here are some interesting websites I've worked on:
