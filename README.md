@@ -25,7 +25,7 @@ Here are some interesting websites I've worked on:
 
 1. [Evido Website](https://website-evido-inigo.vercel.app/) 🌐
 2. [Pizza House](https://pizza-house-nu.vercel.app/) 🍕
-3. [Kvalifik Frontend](https://kvalifik-frontend111.vercel.app/) 📊
+3. [Kvalifik](https://kvalifik-frontend111.vercel.app/) 📊
 4. [Rick and Morty API](https://rick-and-morty-api-seven-mauve.vercel.app/) 🛸
 
 Feel free to explore them!
