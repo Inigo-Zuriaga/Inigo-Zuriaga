@@ -23,16 +23,16 @@ I'm Iñigo Zuriaga, a junior web developer passionate about learning and taking 
 
 Here are some interesting websites I've worked on:
 
-- [Evido](https://website-evido-inigo.vercel.app/){:target="_blank" rel="noopener"} 🌐
-- [Pizza House](https://pizza-house-nu.vercel.app/){:target="_blank" rel="noopener"} 🍕
-- [Kvalifik](https://kvalifik.vercel.app/){:target="_blank" rel="noopener"} 🎻
-- [Rick and Morty API](https://ricknmorty-api.vercel.app/){:target="_blank" rel="noopener"} 🛸
+- [Evido](https://website-evido-inigo.vercel.app/) 🌐
+- [Pizza House](https://pizza-house-nu.vercel.app/) 🍕
+- [Kvalifik](https://kvalifik.vercel.app/) 🎻
+- [Rick and Morty API](https://ricknmorty-api.vercel.app/) 🛸
 
 Feel free to explore them!
 
 ## Get in Touch
 
-- LinkedIn: [Iñigo Zuriaga](https://www.linkedin.com/in/inigo-zuriaga/){:target="_blank" rel="noopener"} 💼
+- LinkedIn: [Iñigo Zuriaga](https://www.linkedin.com/in/inigo-zuriaga/) 💼
 - Email: zuriaga99@gmail.com 📧
 
 Let's connect and collaborate! 🤝
