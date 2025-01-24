@@ -25,7 +25,6 @@ Here are some interesting websites I've worked on:
 
 - [Conversor](https://currencyconversor.vercel.app/) 💱
 - [Evido](https://website-evido-inigo.vercel.app/) 🌐 
-- [Evido](https://website-evido-inigo.vercel.app/) 🌐
 - [Pizza House](https://pizza-house-nu.vercel.app/) 🍕
 - [Kvalifik](https://kvalifik.vercel.app/) 🎻
 - [Rick and Morty API](https://ricknmorty-api.vercel.app/) 🛸
