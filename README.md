@@ -22,7 +22,7 @@ I'm Iñigo Zuriaga, a junior web developer passionate about learning and taking 
 ## Portfolio
 
 Here are some interesting websites I've worked on:
-
+- [My portfolio](https://inigo-zuriaga.vercel.app/) 📝
 - [Converter](https://currencyconverterpro.vercel.app/) 💱
 - [Evido](https://website-evido-inigo.vercel.app/) 🌐 
 - [Pizza House](https://pizza-house-nu.vercel.app/) 🍕
